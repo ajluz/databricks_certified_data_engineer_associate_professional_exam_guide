@@ -210,7 +210,7 @@ spark.sql("DESCRIBE DETAIL products").select("format").show()
 spark.sql("""
     INSERT INTO products (product_id, product_name, base_price, level) 
     VALUES (
-        6, 'Book Club - Ultimate Databricks Certified Data Engineer Associate Exam Guide', 297.90, 'intermediate'
+        6, 'Book Club - Databricks Certified Data Engineer - Associate & Professional Exam Guide', 297.90, 'intermediate'
     )
 """)
 

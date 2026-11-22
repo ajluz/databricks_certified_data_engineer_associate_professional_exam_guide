@@ -75,7 +75,7 @@
 # MAGIC         print(f"Error copying file: {e}")
 # MAGIC
 # MAGIC def copy_binary_file_to_volume(chapter_number: str):
-# MAGIC     repo_folder = "ultimate_databricks_certified_data_engineer_associate_exam_guide"
+# MAGIC     repo_folder = "databricks_certified_data_engineer_associate_professional_exam_guide"
 # MAGIC     target_path = f"/Volumes/workspace/default/chapter_{chapter_number}/binary/db_diagram.png"
 # MAGIC     notebook_path = dbutils.notebook.entry_point.getDbutils().notebook().getContext().notebookPath().get()
 # MAGIC     path_parts = notebook_path.split("/")

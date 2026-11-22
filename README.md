@@ -1,1 +1,1 @@
-# ultimate_databricks_certified_data_engineer_associate_exam_guide
+# databricks_certified_data_engineer_associate_professional_exam_guide
